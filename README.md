@@ -18,15 +18,18 @@ Beyond technical work, I have extensive experience leading data-driven organizat
 
 ---
 
-## Technical Skills
+## Tools & Technologies
 
-| Area | Tools & Technologies |
-|---|---|
-| Programming | Python (Intermediate), SQL — PostgreSQL (Basic) |
-| Data Analysis | Exploratory Data Analysis, Data Cleaning, Data Visualization |
-| Machine Learning | Supervised Learning, NLP, Deep Learning |
-| Data Visualization | Power BI, Microsoft Excel, Google Sheets |
-| Workflow | Google Colab, VS Code, Streamlit |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 
 ---
 
