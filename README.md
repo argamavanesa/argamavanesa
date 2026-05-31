@@ -11,9 +11,9 @@ I am a penultimate-year Mathematics student at the University of Indonesia with 
 
 Beyond technical work, I have extensive experience leading data-driven organizational research and managing cross-functional teams — bridging analytical rigor with strategic communication.
 
-- 🎓 Bachelor of Mathematics, University of Indonesia — GPA 3.38/4.00
-- 🏕️ Data Scientist Cohort, Coding Camp 2026 powered by DBS Foundation × Dicoding (selected from 60,000+ applicants)
-- 🏦 Bakti BCA Scholar 2025 & 2026
+- 🎓 Bachelor of Mathematics, University of Indonesia
+- 🏕️ Data Scientist Cohort, Coding Camp 2026 powered by DBS Foundation × Dicoding
+- 🏦 Bakti BCA Scholar 2025 
 - 📍 Jakarta, Indonesia
 
 ---
@@ -24,9 +24,9 @@ Beyond technical work, I have extensive experience leading data-driven organizat
 |---|---|
 | Programming | Python (Intermediate), SQL — PostgreSQL (Basic) |
 | Data Analysis | Exploratory Data Analysis, Data Cleaning, Data Visualization |
-| Machine Learning | Supervised Learning, NLP, Deep Learning (BiLSTM) |
-| BI & Visualization | Power BI, Microsoft Excel, Google Sheets |
-| Workflow | Google Colab, VS Code, Streamlit, Git |
+| Machine Learning | Supervised Learning, NLP, Deep Learning |
+| Data Visualization | Power BI, Microsoft Excel, Google Sheets |
+| Workflow | Google Colab, VS Code, Streamlit |
 
 ---
 
