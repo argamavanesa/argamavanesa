@@ -36,7 +36,6 @@ Analyzed **5,000 public tweets** (Oct 2023–Oct 2024) about Indonesia's Whoosh 
 - Built a **BERT-NN** sentiment classifier achieving **83% accuracy** with balanced F1-scores (0.83) across both positive and negative classes
 - Used coherence score and Xie-Beni Index to determine optimal cluster count (K=2) and fuzzy coefficient (m=2)
 - Found contrasting sentiment patterns: negative sentiment dominated infrastructure discussions (64.7%), while ticketing/experience topics were overwhelmingly positive (75.1%)
-- Applied data augmentation (synonym replacement + random insertion) to enrich the limited 1,000-sample labeled dataset
 
 📄 [View Full Report](https://drive.google.com/file/d/1uQEdbrf8ihLUgTSz7BKgsB9QMg-EPhHm/view?usp=sharing)
 
@@ -52,7 +51,6 @@ Built and compared multiclass and binary ANN classifiers to predict the presence
 - Addressed class imbalance using **Random OverSampler** on training data to avoid data leakage
 - Tuned hyperparameters (neuron count, dropout rate, learning rate) using **Keras Tuner RandomSearch** over 10 trials
 - Binary classification model achieved **87% accuracy** with AUC of 0.94, outperforming the multiclass approach (60% accuracy) in consistency and interpretability
-- Demonstrated practical value for early-stage clinical screening, reducing risk of missed diagnoses
 
 📄 [View Full Report](https://drive.google.com/file/d/11cgzfCDz8Vc2bPZAddBF7QN291giaOZz/view?usp=sharing)
 
