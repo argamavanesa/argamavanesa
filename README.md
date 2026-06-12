@@ -26,7 +26,7 @@ Beyond technical work, I have extensive experience leading data-driven organizat
 
 ## Featured Projects
 
-### 🚄 Topic-Based Sentiment Analysis of Whoosh High-Speed Rail Reviews
+### 🚄 Topic-Based Sentiment Analysis of Whoosh Tweets
 > **NLP · Topic Modeling · Sentiment Analysis · BERT**
 
 Analyzed **5,000 public tweets** (Oct 2023–Oct 2024) about Indonesia's Whoosh Jakarta–Bandung high-speed rail to uncover key discussion themes and their associated sentiment.
